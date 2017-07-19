@@ -10,6 +10,7 @@ contents:
 def main():
     print(math.sqrt(25))
 
+
 if __name__ == "__main__":
     main()
 ```
@@ -21,8 +22,10 @@ top, like so:
 ```python
 # coding=autoimporter
 
+
 def main():
     print(math.sqrt(25))
+
 
 if __name__ == "__main__":
     main()
